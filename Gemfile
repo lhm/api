@@ -11,6 +11,7 @@ group :development do
   gem "sqlite3-ruby", "~> 1.3.3", :require => "sqlite3"
   gem "rack-test"
   gem "rspec"
+  gem "json_spec"
 end
 
 group :production do
